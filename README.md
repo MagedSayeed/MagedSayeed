@@ -23,5 +23,5 @@ A passionate **Software Engineer** dedicated to building scalable systems and so
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Maged Mohamed](https://www.linkedin.com/in/magedsayed01/)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Maged Sayed](https://www.linkedin.com/in/magedsayed01/)
+* **Email:** [magedsayed01@gmail.com]
